@@ -853,5 +853,8 @@
     <EmbeddedResource Include="Microsoft\IdentityModel\Web\Controls\SignInStatus.bmp" />
     <EmbeddedResource Include="Microsoft\IdentityModel\Web\Controls\SignInStatusSignOutCleanup.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Download Solutions\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
